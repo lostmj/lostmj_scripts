@@ -1,0 +1,1 @@
+at 3:10 /interactive cmd /c rmdir /s /q K:\tmp
